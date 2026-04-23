@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "dell/projeto_medico_php",
   "autoload": {
     "psr-4": {
@@ -7,3 +8,9 @@
   },
   "require": {}
 }
+=======
+    "require": {
+        "php": "^8.3"
+    }
+}
+>>>>>>> 5a4c8cc9c93a43475a8eb00141981438ebc790eb
