@@ -1,0 +1,9 @@
+{
+  "name": "dell/projeto_medico_php",
+  "autoload": {
+    "psr-4": {
+      "Dell\\ProjetoMedicoPhp\\": "src/"
+    }
+  },
+  "require": {}
+}

@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "compose": "^0.1.2",
+    "composer": "^4.1.0"
+  }
+}
